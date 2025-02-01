@@ -9,5 +9,5 @@ Se utilizó un array y luego se uró la función Math para que el elemento a sor
 <h2>Autor</h2>
 Edgardo Muñoz Ramírez, email: edgardojmr@gmail.com
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="/img/ejemplo.png">
    </p>
